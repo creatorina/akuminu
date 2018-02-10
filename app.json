@@ -1,14 +1,14 @@
 {
-    "name": "echo bot - LINE Messaging API",
+    "name": "Stitch V.1.0",
     "description": "This is a sample application for the LINE Messaging API",
     "keywords": ["chatbot", "line", "java"],
     "env": {
         "LINE_BOT_CHANNEL_TOKEN": {
-            "description": "LINE bot Channel access token from the Channel Console",
+            "description": "euVPgxXliNZadNBwabW+fNZW7OCLuz0TgbTfMH/2b3TQJF1WbzAth2FV29er+Sgmq5R9J8trRxsYLEG9fSXD7b3lvtDzw1OcnXeLfdSdWmGWlEjMtH3fO6x+9rzQsJ7ip78X+yNU3NQyxasOXrVkagdB04t89/1O/w1cDnyilFU=",
             "required":  true
         },
         "LINE_BOT_CHANNEL_SECRET": {
-            "description": "LINE bot Channel secret from the Channel Console",
+            "description": "b253e3857856e3501baa15be1a6a9df1",
             "required":  true
         }
     }
